@@ -1,5 +1,8 @@
 # Awesome AI Security
 
+[![HOL Guard](https://img.shields.io/badge/HOL%20Guard-secure%20AI%20agents-00a67e)](https://hol.org/guard)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of open-source tools, frameworks, and resources for securing AI agents and coding assistants.
 
 ## Contents
